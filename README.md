@@ -1,1 +1,1 @@
-"Hello World - you are awesome!"
+"Hello World"
